@@ -1,0 +1,11 @@
+{
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    }
+}
+
+{
+    "code-runner.runInTerminal": true
+    // Other lines...
+}
